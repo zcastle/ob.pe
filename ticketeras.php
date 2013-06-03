@@ -6,10 +6,10 @@
 		<div class="titulo"><a href="#">Epson TM-U220PA</a></div>
 		<div class="descripcion">Impresora fiscal para la emision de comprobantes de pago (Facturas y Boletas), interfaz paralela, disponible en colores Blanco y Negro.</div>
 		<div class="precio">PRECIO: <span class="d">U$D 320.00</span><span class="no-igv">(incluye IGV)</span></div>
-		<div class="menu-item">
+		<div class="option-item">
 			<nav>
-				<a href="#" class="border-round">Detalles</a>
-				<a href="#" class="border-round">Pedir</a>
+				<a href="#">Detalles</a>
+				<a href="#">Pedir</a>
 			</nav>
 		</div>
 	</div>
@@ -19,10 +19,10 @@
 		<div class="titulo"><a href="#">Epson TM-U220A</a></div>
 		<div class="descripcion">Impresora fiscal para la emision de comprobantes de pago (Facturas y Boletas), interfaz paralela, disponible en colores Blanco y Negro.</div>
 		<div class="precio">PRECIO: <span class="d">U$D 320.00</span><span class="no-igv">(incluye IGV)</span></div>
-		<div class="menu-item">
+		<div class="option-item">
 			<nav>
-				<a href="#" class="border-round">Detalles</a>
-				<a href="#" class="border-round">Pedir</a>
+				<a href="#">Detalles</a>
+				<a href="#">Pedir</a>
 			</nav>
 		</div>
 	</div>
@@ -32,10 +32,10 @@
 		<div class="titulo"><a href="#">Epson TM-U220</a></div>
 		<div class="descripcion">Impresora fiscal para la emision de comprobantes de pago (Facturas y Boletas), interfaz paralela, disponible en colores Blanco y Negro.</div>
 		<div class="precio">PRECIO: <span class="d">U$D 320.00</span><span class="no-igv">(incluye IGV)</span></div>
-		<div class="menu-item">
+		<div class="option-item">
 			<nav>
-				<a href="#" class="border-round">Detalles</a>
-				<a href="#" class="border-round">Pedir</a>
+				<a href="#">Detalles</a>
+				<a href="#">Pedir</a>
 			</nav>
 		</div>
 	</div>
@@ -45,10 +45,10 @@
 		<div class="titulo"><a href="#">Epson TM-T88II</a></div>
 		<div class="descripcion">Impresora termica para la emision de precuentas, envios a cocina, etc. interfaz serial</div>
 		<div class="precio">PRECIO: <span class="d">U$D 320.00</span><span class="no-igv">(incluye IGV)</span></div>
-		<div class="menu-item">
+		<div class="option-item">
 			<nav>
-				<a href="#" class="border-round">Detalles</a>
-				<a href="#" class="border-round">Pedir</a>
+				<a href="#">Detalles</a>
+				<a href="#">Pedir</a>
 			</nav>
 		</div>
 	</div>

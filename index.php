@@ -20,7 +20,7 @@
 				<nav>
 					<?php
 						$mod = isset($_GET['mod']) ? $_GET['mod'] : null;
-						$pro; $cli; $con;
+						$pro = null; $cli = null; $con = null;
 						switch ($mod) {
 							case 'productos':
 								$pro = 'active';

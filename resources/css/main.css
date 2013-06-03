@@ -17,6 +17,10 @@ div#pie div.menu {float: right;}
 div#pie div.menu nav {float: right; font-size: 0.9em;}
 div#pie div.menu nav a {text-align: right; display: inline-block; margin-left: 7px;}
 
+.option-item {float: right; margin-right: 7px;}
+.option-item nav {float: right; font-size: 1em;}
+.option-item nav a {text-align: right; display: inline-block; margin-left: 7px;}
+
 div.separador {float: left; width: 100%; height: 1px; border-top: 1px solid #ccc; margin-top: 5px;}
 div#body {float: left; width: 100%; margin-top: 10px;}
 
